@@ -1,11 +1,12 @@
-
 ### Olá, me chamo Gustavo Siqueira! ✌️ 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-siqueira-silva)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusiqueira006_/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@siqueiradev?_t=ZM-8wiWV0SvqZ4&_r=1)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoSiqueira19&show_icons=true&theme=dracula)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoSiqueira19&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSiqueira19&layout=compact)
 
 ## Tecnologias que uso no meu dia.
 
